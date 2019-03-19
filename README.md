@@ -8,12 +8,12 @@ also vidualized using daily returns with histogram and scatter plot.
 planning to do predict next price using LSTM which is one of the type of deep learning 
 
 
-1. web crawling 
+# 1. web crawling 
 Python Beautifulsoup, selenium
 
 
-2. analysis.
+# 2. analysis.
 matplotlib, pandas
 
-3. LSTM
+# 3. LSTM
 open source with fine tuning. 
